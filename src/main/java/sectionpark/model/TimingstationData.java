@@ -1,4 +1,4 @@
-package main.java.sectionpark;
+package sectionpark.model;
 
 import java.io.Serializable;
 import java.text.SimpleDateFormat;

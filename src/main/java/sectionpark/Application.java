@@ -1,11 +1,12 @@
-package main.java.sectionpark;
+package sectionpark;
 
-import main.java.sectionpark.TimingstationData;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import sectionpark.model.TimingstationData;
+import sectionpark.repository.SectionparkRepository;
 
 @SpringBootApplication
 public class Application implements CommandLineRunner {
