@@ -1,5 +1,5 @@
 # Middleware Engineering "Document Oriented Middleware using MongoDB" - Taskdescription
-Join GIT repository: [xxx](xxx)  
+Join GIT repository: [https://classroom.github.com/a/xTRWBOK4](https://classroom.github.com/a/xTRWBOK4)  
 
 
 ## Einführung
@@ -80,11 +80,8 @@ Ebenso soll ein einfaches Webinterface für die Zentrale implementiert werden, d
     * Beantwortung der Fragestellungen   
 *   Anforderungen **"zur Gänze erfüllt"**
     * Formulierung 3 sinnvollen Fragestellung für einen Anwendungsfall in der Zentrale und deren Abfragen in einer Mongo Shell
-*  Erweiterte Anforderungen **überwiegend erfüllt**
     * Umsetzung von mehreren Timing Section Parks (TSPs)
     * Konzeption und Implementierung der kontinuierlichen Speicherung der Daten (Cronjob, Scheduler, Trigger, etc.)
-*  Erweiterte Anforderungen **zur Gänze erfüllt**
-    *   Implementieren eines Webinterfaces zur Darstellung der Daten
 
 ## 1.6 Fragestellung für Protokoll
 
